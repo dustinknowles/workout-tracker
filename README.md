@@ -1,7 +1,7 @@
-#Workout Tracker
+Workout Tracker
 here is an application that allows a user to input and keep track of their workouts
 
-#Installation
+Installation
 Run an 'npm i' in users CLI then 'npm start' to veiw locally
 
 #Technologies
@@ -12,5 +12,5 @@ Heroku
 HTML
 CSS
 
-#Deployed Application
+Deployed Application
 https://thawing-beach-61046.herokuapp.com/
