@@ -1,4 +1,4 @@
-# Workout Tracker
+# Fitness Tracker
 here is an application that allows a user to input and keep track of their workouts
 
 ## Installation
